@@ -1,2 +1,2 @@
 <?php
-import("index.html");
+include("index.html");
